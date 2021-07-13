@@ -14,7 +14,6 @@ STEP3:Replace API key
 
 for more :
 
+https://madhumithab338.medium.com/machine-learning-image-recognition-9286f9c0aa6
 
 
-
-madhumithab338.medium.com/machine-learning-image-recognition-9286f9c0aa6
