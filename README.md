@@ -9,4 +9,12 @@ STEP1: Sign in www.clarifai.com and Obtain an API Key
 STEP2:Sign in www.codepen.io and fork the pen on codepen
 STEP3:Replace API key
 
+
+
+
+
+
+
+
+
 madhumithab338.medium.com/machine-learning-image-recognition-9286f9c0aa6
